@@ -13,7 +13,7 @@ mysql> CREATE DATABASE auth_demo;
 mysql> USE auth_demo;
 mysql> CREATE TABLE users(username VARCHAR(50), salt VARCHAR(150), hash VARCHAR(150));
 ```
-#### Cloning the repository and insatlling dependencies
+#### Cloning the repository and installing dependencies
 
 To install this example on your computer- clone the repository and install
 dependencies.
